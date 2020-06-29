@@ -1,4 +1,4 @@
-# Visualization-Anywhere
+# Visualization Anywhere
 Network Operations Center Dashboard
 I am assuming you have TIG (Telegraf/Influx/Grafana) setup for general dashboard purposes. This is really simplle to setup and there are lots of blogs on this.
 
