@@ -7,4 +7,4 @@ Operation is passive, with the same small operation team to handle the continuou
 
 ### How Might We
 Help the customer build operation center starting from monitoring for Cisco cross-domain solutions.
-![json](.png?raw=true "Import JSON")
+![json](Discover.png?raw=true "Import JSON")
