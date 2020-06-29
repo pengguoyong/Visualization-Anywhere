@@ -6,5 +6,5 @@ Commercial operation platform doesn’t catch up, and would be costly to develop
 Operation is passive, with the same small operation team to handle the continuously growing complexity.
 
 ### How Might We
-help the customer build operation center starting from monitoring for Cisco cross-domain solutions.
+Help the customer build operation center starting from monitoring for Cisco cross-domain solutions.
 
