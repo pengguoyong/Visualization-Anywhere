@@ -1,13 +1,12 @@
-### 安装prometheus
+1. Install Prometheus
 brew install prometheus
 prometheus -h
 prometheus --version
 
-### 修改配置文件
+2. Modify YMAL Configuration File
 vim /usr/local/etc/prometheus.yml
 
-
-### 运行prometheus
+3. Run Prometheus
 $ prometheus --config.file=/usr/local/etc/prometheus.yml
 
 http://localhost:9090/
