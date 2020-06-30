@@ -7,11 +7,14 @@ Operation is passive, with the same small operation team to handle the continuou
 
 ### How Might We
 Help the customer build operation center starting from monitoring for Cisco cross-domain solutions.
+
 ![json](images/Discover1.png?raw=true "Import JSON")
 
 ### Proposed Solution
 Use CNCF open source project to collect different monitoring sources
+
 ![json](images/Explore.png?raw=true "Import JSON")
+
 Monitoring: Grafana, Prometheus, Telegraf
 Logging: Fluentd, ELK
 Tracing: Jaeger, Open-telemetry
