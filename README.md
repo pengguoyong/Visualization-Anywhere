@@ -18,4 +18,8 @@ Logging: Fluentd, ELK
 
 Tracing: Jaeger, Open-telemetry
 
+### Import Dashboard Definition in Grafana
+The Dashboard is a Cisco ACI visual operation center and metrics should help customers simplify monitoring and operation.
+![json](images/ACI.png?raw=true "Import JSON")
+
 
