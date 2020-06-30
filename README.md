@@ -21,5 +21,7 @@ Tracing: Jaeger, Open-telemetry
 ### Import Dashboard Definition in Grafana
 The Dashboard is a Cisco ACI visual operation center and metrics should help customers simplify monitoring and operation.
 ![json](images/ACI.png?raw=true "Import JSON")
-
+The Dashboard is a Cisco DNAC visual operation center and metrics should help customers simplify monitoring and operation.
+![json](images/DNAC1.png?raw=true "Import JSON")
+![json](images/DNAC2.png?raw=true "Import JSON")
 
