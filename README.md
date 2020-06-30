@@ -16,6 +16,9 @@ Use CNCF open source project to collect different monitoring sources
 ![json](images/Explore.png?raw=true "Import JSON")
 
 Monitoring: Grafana, Prometheus, Telegraf
+
 Logging: Fluentd, ELK
+
 Tracing: Jaeger, Open-telemetry
+
 
